@@ -1,0 +1,6 @@
+Gracz.: Sprawko
+Obrona.: 100
+Obrazenia.: 15 - 23
+poziom postaci 1
+aktualny poziom gry.: 1
+doswiadczenie .: 1
